@@ -10,7 +10,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 
 import java.util.Scanner;
 
-public class question5 {
+public class Question5 {
 
     public static void main (String[] args){
 
@@ -24,6 +24,8 @@ public class question5 {
         }
 
         System.out.println(reversed);
+
+        sc.close();
 
     }
 
